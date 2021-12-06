@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673673956762",
+    "project_id": "qualityfy-40ed8",
+    "storage_bucket": "qualityfy-40ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673673956762:android:061e04e9d117f850b87e23",
+        "android_client_info": {
+          "package_name": "com.agesadev.qualityfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673673956762-hnm0l3ook4ip3f8plbqkdlv70drob4pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAisLpQZ8jjlN0sNT2s0-sHHVw5Uc4Zefg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673673956762-hnm0l3ook4ip3f8plbqkdlv70drob4pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
